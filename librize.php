@@ -3,7 +3,7 @@
 Plugin Name: Librize Plugin
 Plugin URI: https://github.com/yandod/wp-librize
 Description: <a href="http://librize.com/">リブライズ</a>の情報をショートコードで埋め込むプラグインです [librize place=3 limit=3]　のように投稿やテキストウィジェットに記述すると、id3の本棚から新着書籍を3件表示します。
-Version: 0.1
+Version: 1.0
 Author: Yusuke Ando
 Author URI: https://github.com/yandod/
 License: GPL2
